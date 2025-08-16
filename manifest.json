@@ -3,7 +3,7 @@
   "notes": "Fix treo ADB & bổ sung auto arrange.",
   "mandatory": false,
   "win64": {
-    "url": "http://11.0.219.121:8000/BitphoneManager.exe",
+    "url": "https://github.com/jaxprokoten/bitphone-updates.git/BitphoneManager.exe",
     "sha256": "272000f31baca4f4c4a6389e43c5fa4de2c8e23160e62e4787aa039cea0b8e23"
   }
 }
